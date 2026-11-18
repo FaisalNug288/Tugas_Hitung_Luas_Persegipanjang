@@ -6,8 +6,8 @@ PERANCANGAN ALGORITMA (PSEUDOCODE)
 
 A. IDENTITAS SISWA
 
-Nama Lengkap :
-Kelas        :
+Nama Lengkap :Nunu Faisal Nugraha
+Kelas        :XII.11
 Nomor Absen  :
 Username GitHub :
 
